@@ -5,7 +5,7 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
 ## Meeting link: 
 
-[https://meet.google.com/ici-ezxv-zjg](https://meet.google.com/dxm-qqdn-usm)
+[https://meet.google.com/dxm-qqdn-usm](https://meet.google.com/dxm-qqdn-usm)
 
 ## Requirements and Grading: 
 

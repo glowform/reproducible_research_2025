@@ -42,3 +42,5 @@ Plagiarism is not tolerated in any form (including self-plagiarism). You are not
 
 
 ## Assignments
+
+17.02.2025 (QF)/20.02(DS) - Assignment 1. Create your github profile (fill up the name and surname), go to this repository and star it.

@@ -11,6 +11,7 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
 - 50% activity
 - 50% (40/10) project and presentation (in teams of 3-4)
+- Attendance
 
 ## Project deadlines: 
 

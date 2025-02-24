@@ -128,10 +128,11 @@ At any point you can:\
 
 ### Exercise 2
 
-In your `RR_2` directory, initiate a git repository named `EX2`
+In your `RR_2` directory, initiate a git repository named `EX2` and enter it
 ```
 cd ..
 git init EX2
+cd EX2
 ```
 Create a file named `README.md`, add a single line of text inside, save the file [hint: you can use echo or create it manually with e.g. Notepad]
 ```

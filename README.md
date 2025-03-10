@@ -23,7 +23,7 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
 Around 5 mins, the presentation need to include slides with title page with team members, why you chose the subject, how you want to solve the problem, short description of the tools you are going to use, and short description of each team member responsibilities. All team members must be present during the presentation (but only one person does the actual presentation).
 
-**Project delivery and discussion**: TBD
+**Project delivery and discussion**: 02.06.2025
 
 The project needs to be an **empirical reasearch** (for example, data analysis and modelling (DS), financial forecasting, trading, risk management (QF)). You need to use Git and GitHub for the teamwork, version controlling, and delivery. The **repository needs to be updated regularly** with access to the history of your commits and changes (so start using Git/GitHub on day one). The project needs to be **fully reproducible** (anyone needs to be able to replicate your results). Also, you need to provide clear instructions on how to set up the environment and run the code. Preferred programming languages are Python and R.
 

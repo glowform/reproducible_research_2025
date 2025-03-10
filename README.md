@@ -15,11 +15,11 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
 ## Project deadlines: 
 
-**Project proposal**: TBD
+**Project proposal**: 31.03.2025
   
  Subject of your research and team members (3 or 4), to be send via email. Subject needs to be a research related to your major (QF or DS). Examples are included in the theoretical slides linked below (at the end of the presentation).
 
-**Presentation**: TBD
+**Presentation**: 28.04.25
 
 Around 5 mins, the presentation need to include slides with title page with team members, why you chose the subject, how you want to solve the problem, short description of the tools you are going to use, and short description of each team member responsibilities. All team members must be present during the presentation (but only one person does the actual presentation).
 

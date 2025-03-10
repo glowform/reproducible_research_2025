@@ -49,6 +49,6 @@ Deadline for all the assignments is next day by midnight.
 
 17.02.2025 (QF)/20.02(DS) - Assignment 1. Create your github profile (fill up the name and surname), go to this repository and star it.
 
-24.02.2025 (QF)/27.02(DS) - Assignment 2. Git Basics. [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment2_.md)
+24.02.2025 (QF)/27.02(DS) - Assignment 2. Git Basics. [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment2.md)
 
-03.03.2025 (QF)/06.03(DS) - Assignment 3. Git Basics cd. [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment3_.md)
+03.03.2025 (QF)/06.03(DS) - Assignment 3. Git Basics cd. [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment3.md)

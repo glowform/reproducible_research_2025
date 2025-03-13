@@ -115,6 +115,7 @@ git config --local user.name "Developer_2"
 #### So far all repositories are empty. Let's imagine:
 Dev1 kick-starts the project by creating the branch with one commit and sending it upstream (make sure you are in correct directory)
 ```
+cd ../Dev1
 echo "This will be the file with code" > code.R
 git add .
 git commit -m "Added the file with code"
@@ -124,6 +125,7 @@ git status
 ```
 Dev2 wants to get up-to-speed so grabs the changes
 ```
+cd ../Dev2
 git pull
 ```
 

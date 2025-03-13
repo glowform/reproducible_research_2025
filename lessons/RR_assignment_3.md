@@ -190,6 +190,8 @@ git push
 ```
 Follow the instructions from Git to resolve merge conflicts.
 
+If you're in `vim`, to exit the editor you need to press `ESC` and type `:wq`. If you're in `nano` to exit the editor you need to press 'ctrl+x', then 'y' to save the file (type in any file name if it asks you for it).
+
 ### Exercise 7: a merge conflict
 In Exercise 6 we had a divergence, but without a conflict (commits differed, but there were no conflicting changes to files).
 

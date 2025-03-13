@@ -19,11 +19,11 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
   
  Subject of your research and team members (3 or 4), to be send via email. Subject needs to be a research related to your major (QF or DS). Examples are included in the theoretical slides linked below (at the end of the presentation).
 
-**Presentation**: 28.04.25
+**Presentation**: 28.04.25(QF) / 24.04.25 (DS)
 
 Around 5 mins, the presentation need to include slides with title page with team members, why you chose the subject, how you want to solve the problem, short description of the tools you are going to use, and short description of each team member responsibilities. All team members must be present during the presentation (but only one person does the actual presentation).
 
-**Project delivery and discussion**: 02.06.2025
+**Project delivery and discussion**: 02.06.2025 / 05.06.25 (DS)
 
 The project needs to be an **empirical reasearch** (for example, data analysis and modelling (DS), financial forecasting, trading, risk management (QF)). You need to use Git and GitHub for the teamwork, version controlling, and delivery. The **repository needs to be updated regularly** with access to the history of your commits and changes (so start using Git/GitHub on day one). The project needs to be **fully reproducible** (anyone needs to be able to replicate your results). Also, you need to provide clear instructions on how to set up the environment and run the code. Preferred programming languages are Python and R.
 

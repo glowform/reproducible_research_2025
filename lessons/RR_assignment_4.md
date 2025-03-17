@@ -60,7 +60,8 @@ git remote show origin
 ### Exercise 2 - Local to GitHub
 Create a new repository on your local machine.
 
-```cd ..
+```
+cd ..
 mkdir Ex2Repo
 cd Ex2Repo
 git init

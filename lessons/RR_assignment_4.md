@@ -132,7 +132,7 @@ You can use the terminal the same way you used Bash.
 
 ## Assignment:
 
-- Send me (j.michankow@uw.edu.pl) a `git log` of your Exercise 2 
+- Send me (j.michankow@uw.edu.pl) a `git log` of your Exercise 2 and a link to the repo created for this exercise on github
 - a screenshot of your cloned repo in VSCode (with source control tab opened) or RStudio (with git tab opened)
 
 ### Next - forking repositories and contributing

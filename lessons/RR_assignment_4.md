@@ -22,7 +22,7 @@ But if it asks for username and password, note that the 'password' might refer t
 
 How to generate one?
 
-On GitHub, go: Account settings -> Developer settings -> Personal Access Tokens -> Generate new token.
+On GitHub, go: Account -> Settings -> Developer settings -> Personal Access Tokens -> Generate new token.
 
 Check user, workflow and repo and it should cover most basic usage. Copy the token and place it in the prompt instead of the password.
 

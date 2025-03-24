@@ -41,7 +41,7 @@ Plagiarism is not tolerated in any form (including self-plagiarism). You are not
 
 ## Annoucements
 
-03.03.2025 (QF)/06.03(DS) - Classes cancelled due to sickness.
+~~03.03.2025 (QF)/06.03(DS) - Classes cancelled due to sickness.~~
 
 ## Assignments
 

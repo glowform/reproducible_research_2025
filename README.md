@@ -54,3 +54,5 @@ Deadline for all the assignments is next day by midnight.
 10.03.2025 (QF)/13.03(DS) - Assignment 3. Git Basics cd. [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_3.md)
 
 17.03.2025 (QF)/20.03(DS) - Assignment 4. Remote Repos [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_4.md)
+
+24.03.2025 (QF)/27.03(DS) - Assignment 5. Forking and contributing [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_5.md)

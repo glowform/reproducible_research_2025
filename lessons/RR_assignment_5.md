@@ -22,7 +22,7 @@ In your local repository create a new file, stage it, commit it and push it.
 
 In GitHub you should see you're '1 commit ahead'. Try opening a pull request (you don't need to follow through).
 
-Stop here and let's discuss.
+**Stop** here and let's discuss.
 
 If there's an edit to the repository you forked -> execute a pull\
 

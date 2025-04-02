@@ -121,6 +121,9 @@ At any point you can return to the main with `git checkout main`
 
 ## Exercise 2
 
+Hint: you can use `git log --oneline --graph --all` for visual representation of branch history and commit structure
+`git reset --(soft|mixed|hard) commit_hash` to reset to the previous commit (it rewrites the history so use it with caution).
+
 Let's try working with branches
 
 As Dev1, while in the feature1 branch, add a file, stage and commit it. Then do a push.\
@@ -129,7 +132,7 @@ Read the message and follow the hints.
 Switch back to the main branch and check what's going on in your working directory (e.g. in File explorer in Windows or Finder in MacOS).
 
 Add a file (do not commit it) and try changing branches.\
-What happens? (put it somewhere as part of a new commit and push it)
+What happens here? Next you can commit and push it.
 
 As Dev2 execute `git pull` and check `git branch -l`
 
@@ -151,7 +154,7 @@ You might recall `merge` from how we united main with origin/main.
 
 <img src="https://i.imgur.com/3yJ2iE8.png" width="700">
 
-While in main do `git merge feature`
+While in main do `git merge feature1`
 
 <img src="https://i.imgur.com/QoluIh0.png" width="700">
 

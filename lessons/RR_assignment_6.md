@@ -121,7 +121,7 @@ At any point you can return to the main with `git checkout main`
 
 ## Exercise 2
 
-Hint: you can use `git log --oneline --graph --all` for visual representation of branch history and commit structure
+Hint: you can use `git log --oneline --graph --all` for visual representation of branch history and commit structure \
 `git reset --(soft|mixed|hard) commit_hash` to reset to the previous commit (it rewrites the history so use it with caution).
 
 Let's try working with branches
@@ -129,14 +129,14 @@ Let's try working with branches
 As Dev1, while in the feature1 branch, add a file, stage and commit it. Then do a push.\
 Read the message and follow the hints.
 
-Switch back to the main branch and check what's going on in your working directory (e.g. in File explorer in Windows or Finder in MacOS).
+Switch back to the main branch and check what's going on in your working directory (e.g. in File explorer in Windows, Finder in MacOS or VSCode).
 
 Add a file (do not commit it) and try changing branches.\
 What happens here? Next you can commit and push it.
 
 As Dev2 execute `git pull` and check `git branch -l`
 
-Execute `git checkout feature1` and check `git branch -l` again
+Execute `git checkout feature1` and check `git branch -l` again. What has changed?
 
 Let Dev2 do some work
 

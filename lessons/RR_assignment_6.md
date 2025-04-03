@@ -122,7 +122,8 @@ At any point you can return to the main with `git checkout main`
 ## Exercise 2
 
 Hint: you can use `git log --oneline --graph --all` for visual representation of branch history and commit structure \
-`git reset --(soft|mixed|hard) commit_hash` to reset to the previous commit (it rewrites the history so use it with caution).
+`git reset --(soft|mixed|hard) commit_hash` to reset to the previous commit (it rewrites the history so use it with caution).\
+`git branch -a` - is going to list all your branches
 
 Let's try working with branches
 

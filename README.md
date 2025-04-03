@@ -57,4 +57,4 @@ Deadline for all the assignments is next day by midnight.
 
 24.03.2025 (QF)/27.03(DS) - Assignment 5. Forking and contributing [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_5.md)
 
-31.03.2025 (QF)/03.04(DS) - Assignment 6. Branches and merging [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_6.md)
+31.03.2025 (QF)/03.04(DS) - Assignment 6. Branches and merging, pt. 1 [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_6.md)

@@ -149,6 +149,8 @@ Run `git status` on the main branch, push the changes
 
 Run `git status` on the feature1 branch, push the changes
 
+Please send `git log` and `git branch -v` as todays assignment.
+
 ### There are two main ways of putting the results back together
 
 You might recall `merge` from how we united main with origin/main.

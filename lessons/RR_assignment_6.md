@@ -69,7 +69,7 @@ The HEAD indicator goes to the feature branch.
 ### Exercise 1
 Ok, let's do it, setup:
 
-In folder RR_git4 create bare central repository and two cloned ones.
+In folder RR_git6 create bare central repository and two cloned ones.
 
 As dev1 create a short history of commits (minimum two) and push them
 

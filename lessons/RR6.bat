@@ -15,6 +15,8 @@ cd ../Dev1
 git branch feature1
 git checkout feature1
 echo "Hello feature1" > file3.txt
+git add file3.txt
+git commit -m "Add file3.txt"
 git push -u origin feature1
 git checkout master
 echo "Hello master" > file4.txt

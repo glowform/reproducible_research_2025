@@ -153,6 +153,8 @@ Please send `git log` and `git branch -v` as todays assignment.
 
 ### There are two main ways of putting the results back together
 
+(If you want to get back to where we were last week run the RR6.bat (Windows) or RR6.sh (Linux/Mac) in terminal)
+
 You might recall `merge` from how we united main with origin/main.
 
 <img src="https://i.imgur.com/3yJ2iE8.png" width="700">

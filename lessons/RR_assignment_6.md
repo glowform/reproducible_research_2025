@@ -215,7 +215,7 @@ git rebase --onto <new-base> <old-base> <moved-branch>
 ```
 <img src="https://i.imgur.com/9DqWc03.png " width="700">
 
-### Merge conflicts
+### Exercise 3 - Merge conflicts
 
 Lets have a look at intentional merge conflict and see how to solve it.
 
@@ -258,7 +258,7 @@ Here you can:
 (and turn it into a new branch if you want to keep it)
 
 ## Assignment 
-1. Send me `git log` and `git branch -v` of your exercise 2
+1. Send me `git log` and `git branch -v` of your exercise 3
 2. Imagine this is your repository
 
 <img src="https://hackmd.io/_uploads/r1cHiXvAT.png " width="700">

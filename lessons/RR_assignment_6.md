@@ -171,11 +171,11 @@ It doesn't include the merge (unless you also do `git merge main` while on the b
 
 Let's go back to the terminal
 
-As Dev1 get all the newest updates for both branches.
+As Dev1 get all the newest updates for **both** branches.
 
 Merge the feature1 branch to the main branch using `git merge <branch-name>`. Push.
 
-Conflict resolution is the same as we once did.
+Conflict resolution (if any) is the same as we once did.
 
 ### The second approach is rebasing
 

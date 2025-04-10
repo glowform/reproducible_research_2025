@@ -219,7 +219,8 @@ git rebase --onto <new-base> <old-base> <moved-branch>
 
 ### Exercise 3 - Merge conflicts
 
-Lets create a new repo for this one and try to create a merge conflict in it.
+Lets create a new repo for this one and try to create a merge conflict in it.\
+It's safest to use git bash (terminal) for this exercise.
 
 ```
 git init conflict-ex
@@ -250,7 +251,8 @@ git commit -am "Change from main branch"
 
 And finally, `git merge branch-a`
 
-A text editor should open when we need to edit the file6.txt - in this case just remove the markers added by git. \
+A text editor should open where we need to edit the file6.txt - in this case just remove the markers added by git. \
+If the editor doesn't open up automatically, use any text editor to open up this file (notepad, VSCode, nano, etc).
 Save the file, stage, commit and push.
 
 <img src="https://i.imgur.com/VWufdVS.png " width="500">

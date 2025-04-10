@@ -221,7 +221,8 @@ git rebase --onto <new-base> <old-base> <moved-branch>
 
 Lets create a new repo for this one and try to create a merge conflict in it.
 
-```git init conflict_ex
+```
+git init conflict_ex
 cd conflict_ex
 echo "Line 1: Header to remove" > file.txt
 echo "Line 2: Original content" >> file.txt

@@ -233,7 +233,7 @@ Switch to Dev1 and pull.\
 A text editor should open when we need to edit the file6.txt - in this case just remove the markers added by git. \
 Save the file, stage, commit and push.
 
-<img src="https://i.imgur.com/Q3sorGe.png " width="500">
+<img src="https://i.imgur.com/VWufdVS.png " width="500">
 
 ### Other fun stuff: detaching HEAD
 

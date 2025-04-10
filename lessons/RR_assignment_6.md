@@ -226,7 +226,8 @@ cd conflict_ex
 echo "Line 1: Header to remove" > file.txt
 echo "Line 2: Original content" >> file.txt
 git add file.txt
-git commit -m "First commit"```
+git commit -m "First commit"
+```
 
 then
 

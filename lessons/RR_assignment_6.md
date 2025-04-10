@@ -242,7 +242,7 @@ git commit -am "Change from branch A"
 we have introduced some shortcuts above, can you spot them?
 
 ```
-git checkout main
+git checkout master
 echo "Line 1: Header to remove" > file.txt
 echo "Line 2: Change from main branch" >> file.txt
 git commit -am "Change from main branch"

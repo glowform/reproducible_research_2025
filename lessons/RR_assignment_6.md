@@ -219,17 +219,31 @@ git rebase --onto <new-base> <old-base> <moved-branch>
 
 ### Exercise 3 - Merge conflicts
 
-Lets have a look at intentional merge conflict and see how to solve it.
+Lets create a new repo for this one and try to create a merge conflict in it.
 
-As Dev1 change to feature1 branch. \
-Add text to file6.txt (remember to use single `>`). Stage commit and push the changes.
+```git init conflict_ex
+cd conflict_ex
+echo "Line 1: Header to remove" > file.txt
+echo "Line 2: Original content" >> file.txt
+git add file.txt
+git commit -m "First commit"```
 
-Switch to Dev2 and feature1 branch. Don't pull.\
-Same as above, modify, commit and push the file6.txt.
+then
 
-At this point two developers made changes to the same file, so we're going to have a conflict when merging.
+```git checkout -b branch-a
+echo "Line 1: Header to remove" > file.txt
+echo "Line 2: Change from branch A" >> file.txt
+git commit -am "Change from branch A"```
 
-Switch to Dev1 and pull.\
+we have introduced some shortcuts above, can you spot them?
+
+```git checkout main
+echo "Line 1: Header to remove" > file.txt
+echo "Line 2: Change from main branch" >> file.txt
+git commit -am "Change from main branch"```
+
+And finally, `git merge branch-a`
+
 A text editor should open when we need to edit the file6.txt - in this case just remove the markers added by git. \
 Save the file, stage, commit and push.
 

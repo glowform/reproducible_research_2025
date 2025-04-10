@@ -234,7 +234,7 @@ git commit -m "First commit"
 then
 
 ```
-git checkout -b branch-a
+git checkout -b branch2
 echo "Line 1: Header to remove" > file.txt
 echo "Line 2: Change from branch A" >> file.txt
 git commit -am "Change from branch A"
@@ -249,7 +249,7 @@ echo "Line 2: Change from main branch" >> file.txt
 git commit -am "Change from main branch"
 ```
 
-And finally, `git merge branch-a`
+And finally, `git merge branch2`
 
 A text editor should open where we need to edit the file6.txt - in this case just remove the markers added by git. \
 If the editor doesn't open up automatically, use any text editor to open up this file (notepad, VSCode, nano, etc).

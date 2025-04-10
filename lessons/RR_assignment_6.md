@@ -220,7 +220,7 @@ git rebase --onto <new-base> <old-base> <moved-branch>
 ### Exercise 3 - Merge conflicts
 
 Lets create a new repo for this one and try to create a merge conflict in it.\
-It's safest to use git bash (terminal) for this exercise.
+It's safest to use git bash (terminal) for this exercise, to avoid UTF-16 encoding.
 
 ```
 git init conflict-ex

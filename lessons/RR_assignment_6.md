@@ -230,17 +230,21 @@ git commit -m "First commit"```
 
 then
 
-```git checkout -b branch-a
+```
+git checkout -b branch-a
 echo "Line 1: Header to remove" > file.txt
 echo "Line 2: Change from branch A" >> file.txt
-git commit -am "Change from branch A"```
+git commit -am "Change from branch A"
+```
 
 we have introduced some shortcuts above, can you spot them?
 
-```git checkout main
+```
+git checkout main
 echo "Line 1: Header to remove" > file.txt
 echo "Line 2: Change from main branch" >> file.txt
-git commit -am "Change from main branch"```
+git commit -am "Change from main branch"
+```
 
 And finally, `git merge branch-a`
 

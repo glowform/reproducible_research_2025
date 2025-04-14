@@ -35,7 +35,7 @@ You can [link to websites](https://www.example.com) and embed images:
 
 ## Exercise 1 - R Markdown
 
-[ Link to the file](https://github.com/glowform/reproducible-research/blob/main/Assignments/RR_7_markdown.Rmd)
+[ Link to the file](https://github.com/glowform/reproducible_research_2025/blob/main/Assignments/RR_7_markdown.Rmd)
 
 
 ## Exercise 2 - Quarto
@@ -60,11 +60,11 @@ Final output – .html/tex/pdf/others
 
 (Note: it was similar for RMarkdown, with Rmd instead of qmd)
 
-[ Link to the file](https://github.com/glowform/reproducible-research/blob/main/Assignments/RR_7_quarto.qmd)
+[ Link to the file](https://github.com/glowform/reproducible_research_2025/blob/main/Assignments/RR_7_quarto.qmd)
 
 ## Exercise 3 - Jupyter Notebooks
 
-[ Link to the file](https://github.com/glowform/reproducible-research/blob/main/Assignments/RR_7_jupyter.ipynb)
+[ Link to the file](https://github.com/glowform/reproducible_research_2025/blob/main/Assignments/RR_7_jupyter.ipynb)
 
 
 ## Assignment 

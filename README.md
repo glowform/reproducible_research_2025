@@ -61,6 +61,10 @@ Deadline for all the assignments is next day by midnight.
 
 07.04.2025 (QF)/10.04(DS) - Assignment 6. Branches and merging, pt. 2 [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_6.md)
 
-14.04.2025 (QF) - Assignment 7. Dynamic documents [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_7.md)
-
 24.04.2025 (DS)/28.04(QF) - Presentations
+
+14.04.2025 (QF)/08.05 (DS) - Assignment 7. Dynamic documents [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_7.md)
+
+05.05.2025 (QF)/08.05 (DS) - Assignment 8. Reporting [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_8.md)
+
+

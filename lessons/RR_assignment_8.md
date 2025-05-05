@@ -7,13 +7,13 @@ Today we will be working on a practical assignment based on what we have learned
 
 Deadline for this assignment is 09.05 (QF) / 12.05 (DS) and you will get 2 points for it (if done properly).
 
+Create a new repository (either init it locally->github or github->local)
+
 Pick a TV show that had its premieres on TV and thus has some viewership numbers reported on Wikipedia. E.g. [Suits](https://en.wikipedia.org/wiki/List_of_Suits_episodes) (see table just above the References)
 
-Then create a short report (you can copy the content from Wikipedia or other pages for this task) that contains, for example:
+Then create a short report in Quarto/Jupyter (R or Python) that contains, for example:
 
-(try doing more than one commit for this, i.e. divide your work into steps!)
-
-1.  A brief description of the show (use *italics* for names).
+1.   A brief description of the show (use headings, *italics*, **bold**, for names and text).
 2.  A photo with the logo or a shot from the show itself.
 3.  A summary of some basic statistics (e.g. on viewership or ratings).
 4.  A graph of the viewership over time.
@@ -23,6 +23,10 @@ Then create a short report (you can copy the content from Wikipedia or other pag
 8.  **Render** your report and save it in the relevant folder of your repo.
 9.  Commit the changes and push them to Github.
 10.  Send the link to github repo with commits history and the report.
+
+(you can copy the content from Wikipedia or other pages for this task)
+
+(try doing more than one commit for this, i.e. divide your work into steps!)
 
 
 

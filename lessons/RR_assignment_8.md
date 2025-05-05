@@ -11,7 +11,7 @@ Create a new repository (either init it locally->github or github->local)
 
 Pick a TV show that had its premieres on TV and thus has some viewership numbers reported on Wikipedia. E.g. [Suits](https://en.wikipedia.org/wiki/List_of_Suits_episodes) (see table just above the References)
 
-Then create a short report in Quarto/Jupyter (R or Python) that contains, for example:
+Then create a short report in RMD/Quarto/Jupyter (R or Python) that contains, for example:
 
 1.   A brief description of the show (use headings, *italics*, **bold**, for names and text).
 2.  A photo with the logo or a shot from the show itself.

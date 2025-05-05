@@ -20,8 +20,9 @@ Then create a short report (you can copy the content from Wikipedia or other pag
 5.  A graph of the episode-to-episode (or season-to-season) changes in viewership.
 6.  A short description of the observed changes that includes inline references to numbers (e.g. the viewership decreased by `insert_calculated_number` between seasons 3 and 5).
 7.  Make sure your report looks nice -\> this time we're mostly interested in the output and not necessarily the codes used to achieve it.
-8.  `render` your report and save it in the relevant folder of your repo.
+8.  **Render** your report and save it in the relevant folder of your repo.
 9.  Commit the changes and push them to Github.
+10.  Send the link to github repo with commits history and the report.
 
 
 

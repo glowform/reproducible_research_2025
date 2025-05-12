@@ -41,7 +41,7 @@ Plagiarism is not tolerated in any form (including self-plagiarism). You are not
 
 ## Annoucements
 
-08.05(DS) - Classes cancelled.
+08.05(DS) - Classes cancelled.\
 ~~03.03.2025 (QF)/06.03(DS) - Classes cancelled due to sickness.~~
 
 ## Assignments
@@ -67,5 +67,7 @@ Deadline for all the assignments is next day by midnight.
 14.04.2025 (QF)/15.05 (DS) - Assignment 7. Dynamic documents [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_7.md)
 
 05.05.2025 (QF)/15.05 (DS) - Assignment 8. Reporting [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_8.md)
+
+12.05.2025 (QF) - Assignment 9. Intro to LaTeX [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_9.md)
 
 

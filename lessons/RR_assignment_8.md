@@ -5,7 +5,7 @@ Today we will be working on a practical assignment based on what we have learned
 
 ## Assignment 
 
-Deadline for this assignment is 09.05 (QF) / 12.05 (DS) and you will get 2 points for it (if done properly).
+Deadline for this assignment is 09.05 (QF) / 25.05 (DS) and you will get 2 points for it (if done properly).
 
 Create a new repository (either init it locally->github or github->local)
 

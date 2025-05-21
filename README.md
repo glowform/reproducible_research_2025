@@ -71,6 +71,6 @@ Deadline for all the assignments is next day by midnight.
 
 12.05.2025 (QF)/15.05 (DS) - Assignment 9. Intro to LaTeX [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_9.md)
 
-26.05.2025 (QF)/22.05 (DS) - Assignment 10. Metaanalysis [[Link](https://github.com/glowform/reproducible_research_2025/tree/main/lessons/RR_10_Metaanalysis)
+26.05.2025 (QF)/22.05 (DS) - Assignment 10. Metaanalysis [Link](https://github.com/glowform/reproducible_research_2025/tree/main/lessons/RR_10_Metaanalysis)
 
 

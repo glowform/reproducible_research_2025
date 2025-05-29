@@ -75,8 +75,6 @@ Deadline for all the assignments is next day by midnight.
 
 26.05.2025 (QF)/22.05 (DS) - Assignment 11. Reproducible Environments [Link](https://github.com/glowform/reproducible_research_2025/tree/main/lessons/RR_11_Reproducible%20Environments)
 
-29.05 (DS)/ Async (QF) - Assignment 10. Metaanalysis [Link](https://github.com/glowform/reproducible_research_2025/tree/main/lessons/RR_10_Metaanalysis)
-
 02.06.2025 (QF)/05.06(DS) - Final Projects Discussion
 
 

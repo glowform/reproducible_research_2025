@@ -41,6 +41,8 @@ Plagiarism is not tolerated in any form (including self-plagiarism). You are not
 
 ## Annoucements
 
+18.05(QF) - Classes cancelled.\
+08.05(DS) - Classes cancelled.\
 ~~03.03.2025 (QF)/06.03(DS) - Classes cancelled due to sickness.~~
 
 ## Assignments
@@ -56,3 +58,23 @@ Deadline for all the assignments is next day by midnight.
 17.03.2025 (QF)/20.03(DS) - Assignment 4. Remote Repos [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_4.md)
 
 24.03.2025 (QF)/27.03(DS) - Assignment 5. Forking and contributing [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_5.md)
+
+31.03.2025 (QF)/03.04(DS) - Assignment 6. Branches and merging, pt. 1 [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_6.md)
+
+07.04.2025 (QF)/10.04(DS) - Assignment 6. Branches and merging, pt. 2 [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_6.md)
+
+24.04.2025 (DS)/28.04(QF) - Presentations
+
+14.04.2025 (QF)/15.05 (DS) - Assignment 7. Dynamic documents [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_7.md)
+
+05.05.2025 (QF)/15.05 (DS) - Assignment 8. Reporting [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_8.md)
+
+12.05.2025 (QF)/15.05 (DS) - Assignment 9. Intro to LaTeX [Link](https://github.com/glowform/reproducible_research_2025/blob/main/lessons/RR_assignment_9.md)
+
+26.05.2025 (QF)/22.05 (DS) - Assignment 10. Metaanalysis [Link](https://github.com/glowform/reproducible_research_2025/tree/main/lessons/RR_10_Metaanalysis)
+
+26.05.2025 (QF)/22.05 (DS) - Assignment 11. Reproducible Environments [Link](https://github.com/glowform/reproducible_research_2025/tree/main/lessons/RR_11_Reproducible%20Environments)
+
+02.06.2025 (QF)/05.06(DS) - Final Projects Discussion
+
+
